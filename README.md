@@ -30,10 +30,6 @@ Hi, I'm Avinov Roy
 
 ---
 [![](https://visitcount.itsvg.in/api?id=avin0v0&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<h3>happy coding!</h3>
-
-
 <!--
 **avin0v0/avin0v0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
