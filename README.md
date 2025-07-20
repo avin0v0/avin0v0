@@ -6,8 +6,8 @@
 
 
 # Who am I?
-<img align="right" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExcnl1NHQ4Z3VhZ2VueGlweTUwajc2NzEzdGplYnFhbGZuZmw3Nng3cCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/zbMRZx113HKBkeCwrm/giphy.gif" width="250" style="center">
 Hi, I'm Avinov Roy
+<img align="right" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHNtMnk0a3hucGE5aG9ydTN6djRucXB4YTJ6ZmgyZTZxdWNoZm1jbSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/78XCFBGOlS6keY1Bil/giphy.gif" width="280" style="center">
 <br>I’m a passionate Front-end developer. I enjoy building intuitive and visually engaging web interfaces, and I’m constantly improving my skills in Data Structures and Algorithms to build efficient and scalable applications.<br><br>🏆 Winner of Smart India Hackathon (SIH) 2024<br>🧠 Strong foundation in Data Structures & Algorithms<br>🛠️ Proficient in HTML, CSS, JavaScript, React<br>🔍 Currently learning and exploring ML
 
 # 💻 Tech Stack:
@@ -30,6 +30,9 @@ Hi, I'm Avinov Roy
 
 ---
 [![](https://visitcount.itsvg.in/api?id=avin0v0&icon=0&color=0)](https://visitcount.itsvg.in)
+
+<h3>happy coding!</h3>
+
 
 <!--
 **avin0v0/avin0v0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
