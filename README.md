@@ -7,7 +7,7 @@
 
 # Who am I?
 Hi, I'm Avinov Roy
-<img align="right" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="245" style="center">
+<img align="right" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="280" style="center">
 <br>I’m a passionate Front-end developer. I enjoy building intuitive and visually engaging web interfaces, and I’m constantly improving my skills in Data Structures and Algorithms to build efficient and scalable applications.<br><br>🏆 Winner of Smart India Hackathon (SIH) 2024<br>🧠 Strong foundation in Data Structures & Algorithms<br>🛠️ Proficient in HTML, CSS, JavaScript, React<br>🔍 Currently learning and exploring ML
 
 # 💻 Tech Stack:
